@@ -1,4 +1,4 @@
-# Time-Series-Tutorials
+# Manipulating Time Series Data in Python
 This is a tutorial project which explains how to use dates and times in pandas.
 
 # Date & time series functionality
