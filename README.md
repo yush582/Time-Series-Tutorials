@@ -18,7 +18,7 @@ Basic time series transformations include:
   Setting & changing DateTimeIndex frequency 
     Upsampling vs Downsampling
  
- # Lags, Changess and returns for stock price series
+ # Lags, Changes and returns for stock price series
  Typical Time SEries manipulations include:
   Shift or lag values back or forward back in time
   Get the difference in value for a given time period
